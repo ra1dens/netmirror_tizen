@@ -1,0 +1,10 @@
+{
+    "id": "netmirror.app",
+    "name": "Net Mirror",
+    "version": "1.0.0",
+    "entry": "index.html",
+    "description": "Watch All Your Favourite Webseries",
+    "author": "Twilight",
+    "icon": "netmirror_1.png"
+  }
+  
